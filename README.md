@@ -1,22 +1,22 @@
-<div align="center">
-  <h1>Hi, I'm Prianshu Mukherjee 👋</h1>
-  <p><i>DevOps & Full Stack Engineer | Cloud Infra | AI |</i></p>
+
+ <h1>Hi, I'm Prianshu 👋</h1>
+  <p><i>DevOps & Full Stack Engineer | Cloud Infra | AI </i></p>
 </div>
 
 ---
 
 ## 💡 About Me
 
-🚀 I’m a passionate developer and DevOps enthusiast working across full stack development, ML integrations, and scalable cloud-native infrastructure.
+ I’m a passionate developer and DevOps enthusiast working across full stack development, ML integrations, and scalable cloud-native infrastructure.
 
-🎯 My focus areas:
+### focus areas:
 - **Infrastructure as Code** (Terraform, AWS, GCP, EKS)
 - **CI/CD Pipelines** (Jenkins, GitHub Actions, Ansible)
 - **Cloud-Native App Development** (Docker, Kubernetes, Helm)
 - **AI Tools Integration** (Gemini API, LLMs, ML Visualizations)
 - **Web Development** (MERN Stack, Flask, React)
 
-## 🧰 Tech Stack & Tools
+## Tech Stack 
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,11 +48,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
-- 🔗 [Website](https://personal-website-gamma-black.vercel.app/)
-- 📝 [Blog](https://prianshu-404daily.hashnode.dev/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prianshu-mukherjee-238072209/)
-- 🐦 [Twitter / X](https://x.com/prianshuxd)
-- 🧠 [GitHub](https://github.com/Prianshu-git)
+🔗 [Website](https://personal-website-gamma-black.vercel.app/) 📝 [Blog](https://prianshu-404daily.hashnode.dev/) 💼 [LinkedIn](https://www.linkedin.com/in/prianshu-mukherjee-238072209/) 🐦 [Twitter / X](https://x.com/prianshuxd) 🧠 [GitHub](https://github.com/Prianshu-git)
 
