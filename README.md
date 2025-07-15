@@ -5,9 +5,8 @@
 
 ---
 
-## 💡 About Me
 
- I’m a passionate developer and DevOps enthusiast working across full stack development, ML integrations, and scalable cloud-native infrastructure.
+ A passionate developer and DevOps enthusiast working across full stack development, ML integrations, and scalable cloud-native infrastructure.
 
 ### focus areas:
 - **Infrastructure as Code** (Terraform, AWS, GCP, EKS)
