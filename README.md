@@ -6,12 +6,12 @@
  A passionate developer and enthusiast working across full stack development,AI ML integrations, and scalable cloud-native infrastructure.
 
 ## 🎯 Focus Areas
-]
-DevOps & Cloud – AWS, GCP, OCI, Terraform, Kubernetes, Docker, CI/CD
-Data Streaming & Orchestration – Apache Kafka, Apache Airflow
-Full Stack & APIs – MERN Stack, REST/GraphQL, Postman
-AI & ML – TensorFlow, Scikit-learn, OpenCV, SageMaker, Generative AI
-Core Skills – Python, Go, Rust, SQL, Shell Scripting
+
+<ul> DevOps & Cloud – AWS, GCP, OCI, Terraform, Kubernetes, Docker, CI/CD </ul>
+<ul> Data Streaming & Orchestration – Apache Kafka, Apache Airflow </ul>
+<ul> Full Stack & APIs – MERN Stack, REST/GraphQL, Postman </ul>
+<ul> AI & ML – TensorFlow, Scikit-learn, OpenCV, SageMaker, Generative AI </ul>
+<ul> Core Skills – Python, Go, Rust, SQL, Shell Scripting </ul>
 
 ## Tech Stack 
 
