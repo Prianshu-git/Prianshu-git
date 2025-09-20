@@ -1,6 +1,6 @@
 
  <h1>Hi, I'm Prianshu 👋</h1>
-  <p><i>DevOps & Full Stack Engineer | Cloud Infra | AI </i></p>
+  <p><i> Full Stack Engineer | Cloud Infra | AI/ML </i></p>
 </div>
 
  A passionate developer and DevOps enthusiast working across full stack development, ML integrations, and scalable cloud-native infrastructure.
