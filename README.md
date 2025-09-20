@@ -3,14 +3,8 @@
   <p><i> Full Stack Engineer | Cloud Infra | AI/ML </i></p>
 </div>
 
- A passionate developer and DevOps enthusiast working across full stack development, ML integrations, and scalable cloud-native infrastructure.
+ A passionate developer and enthusiast working across full stack development,AI ML integrations, and scalable cloud-native infrastructure.
 
-### focus areas:
-- **Infrastructure as Code** (Terraform, AWS, GCP, EKS)
-- **CI/CD Pipelines** (Jenkins, GitHub Actions, Ansible)
-- **Cloud-Native App Development** (Docker, Kubernetes, Helm)
-- **AI Tools Integration** (Gemini API, LLMs, ML Visualizations)
-- **Web Development** (MERN Stack, Flask, React)
 
 ## Tech Stack 
 
@@ -42,6 +36,18 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+## Certs
+ [![Astronomer Airflow 3 Fundamentals](https://img.shields.io/badge/Airflow%203%20Fundamentals-Astronomer-blue?style=for-the-badge&logo=apacheairflow&logoColor=white)]
+[![Confluent Kafka Fundamentals](https://img.shields.io/badge/Kafka%20Fundamentals-Confluent-lightgrey?style=for-the-badge&logo=apachekafka&logoColor=white)]
+[![Confluent Data Streaming Engineer](https://img.shields.io/badge/Data%20Streaming%20Engineer-Confluent-orange?style=for-the-badge&logo=confluent&logoColor=white)]
+[![Oracle OCI Foundations Associate](https://img.shields.io/badge/OCI%20Foundations%20Associate-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)]
+[![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Essentials-orange?style=for-the-badge&logo=amazonaws&logoColor=white)]
+[![Databricks Generative AI Fundamentals](https://img.shields.io/badge/Generative%20AI%20Fundamentals-Databricks-lightblue?style=for-the-badge&logo=databricks&logoColor=white)]
+[![Kubernetes Intro (LFS158)](https://img.shields.io/badge/Kubernetes%20Intro-LinuxFoundation-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]
+[![Docker Essentials by IBM](https://img.shields.io/badge/Docker%20Essentials-IBM-cyan?style=for-the-badge&logo=docker&logoColor=white)]
+[![Postman API Fundamentals (Student)](https://img.shields.io/badge/API%20Fundamentals-Postman-brightgreen?style=for-the-badge&logo=postman&logoColor=white)]
+[![HackerRank Problem Solving / SQL](https://img.shields.io/badge/Problem%20Solving%20%2F%20SQL-HackerRank-purple?style=for-the-badge&logo=hackerrank&logoColor=white)]
 
 
 ## Connect with Me
